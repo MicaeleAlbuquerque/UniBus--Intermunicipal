@@ -50,5 +50,5 @@ Este é um **projeto acadêmico** com **uso obrigatório do Firebase Authenticat
 ## 🏗️ Status do Projeto
 
 > 🚧 Em desenvolvimento  
-> Primeira versão planejada: *[inserir dez/2025]*
+> Primeira versão planejada: *[dez/2025]*
 
